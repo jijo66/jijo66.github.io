@@ -1,0 +1,24 @@
+/* Column styling
+*/
+
+body{
+
+	background-image: url('King.jpg');
+	background-size:cover;
+	
+}
+
+h1{
+
+	color:#051F05;
+	align-content: center;
+	text-align: center;
+	padding-top: 17%;
+	padding-bottom: 7%;
+	font-size: 3em;
+}
+
+.mx-auto, .btn, .btn-danger {
+	align-content: center;
+	text-align: center;
+}
